@@ -1,0 +1,10 @@
+__pycache__
+*.pyc
+*.pyo
+*.DS_Store
+runs/
+outputs/
+.cache/
+.huggingface/
+.git/
+.tests_cache/

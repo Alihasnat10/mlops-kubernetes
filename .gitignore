@@ -1,0 +1,7 @@
+runs/
+*.zip
+*.docx
+LISCENCE
+__pycache__
+*.ipynb
+runs\
